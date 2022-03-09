@@ -3,8 +3,8 @@
 Vestirme:
 
 INICIO
-*1. Elegir las prendas a vestir*
-*2. Retirar una a una cada prenda anterior
+1. Elegir las prendas a vestir
+2. Retirar una a una cada prenda anterior
 3. Colocar una a una cada prenda nueva a vestir
 4. Verificar si combinan las prendas a vestir
 5. En caso afirmativo, continuar con las actividades diarias
