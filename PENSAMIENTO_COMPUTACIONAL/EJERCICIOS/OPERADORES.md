@@ -3,11 +3,30 @@ Reto. Describe el proceso en que se computa las siguientes fórmulas.
 
 X = (18/9 * 2 + 16) – ( 5 * 4 – 3^3)
 
+    x = (2 * 2 + 16) - (5 * 4 - 9)
+    x = (4 + 16) - (20 - 9)
+    x = (20) - (11)
+    x = 9
+    
 X = (5 + 2 * 4) – (25 +. 5)2
+
+    x = (5 + 8) - (25.5) 2
+    x = (13) - (50)
+    x = -37
 
 X = (100/5^2 + 1) + 11 * 3
 
-X = ((8-6)^2*3)^3.
+    x = (100/25 + 1) + 33
+    x = (4 + 1) + 33
+    x = 5 + 33
+    x = 38
+
+X = ((8-6)^2*3)^3
+
+    x = ((2)^2*3)^3
+    x = (4 * 3) ^ 3
+    x = 12 ^ 3
+    x = 1728
 
 
 ## OPERADORES RELACIONALES
@@ -23,10 +42,21 @@ resuelve:
 “C” es mayor que “D”. “E” es menor que “F”. “G” es menor que “E” y “D” es
 mayor que “F”. ¿Cuál es el menor de todos?
 
+  C > D
+  E < F
+  G < E
+  D > F
+  
+  C > D > F > E > G
+  
+  G es MENOR A TODOS
+
 ## OPERADORES LOGICOS
 Reto. Evalúa las siguientes expresiones a la derecha.
-1) (45<120 OR 12<120) =
-2) (6! =6) && (12>22)) =
-3) ¬ (128<145 && 12>9) =
-4) “Daniela”< >”DANIELA” =
-5) 10*20< >210 =
+1) (45 < 120 OR 12 < 120) = TRUE
+2) (6! =6) && (12>22)) = FALSE
+3) ¬ (128 < 145 && 12 > 9) = FALSE
+   ¬ (TRUE && TRUE) = FALSE
+   ¬ (TRUE) = FALSE
+5) “Daniela” <> "DANIELA” = ¿FALSE?
+6) 10 * 20 <> 210 = TRUE
