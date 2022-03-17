@@ -32,6 +32,9 @@
                      SINO MOSTRAR ("Reprobado :(")
         13. FIN 
 
+      ![image](https://user-images.githubusercontent.com/75552884/158856358-f15e2d9d-78a5-4a13-a325-23abe1bafbf2.png)
+
+
 3. Realizar un algoritmo y diagrama de flujo para un programa que solicite un número e indique si es par o impar.
 
         1. INICIO
