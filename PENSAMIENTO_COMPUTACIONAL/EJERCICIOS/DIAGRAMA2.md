@@ -45,3 +45,5 @@
                                 SINO MOSTRAR (numero "es un número impar"))
         7. FIN 
 
+      ![image](https://user-images.githubusercontent.com/75552884/158907572-ba2c2b73-b155-4f0b-8a50-cb905f99012f.png)
+
