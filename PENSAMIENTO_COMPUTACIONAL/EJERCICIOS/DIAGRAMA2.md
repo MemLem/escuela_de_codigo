@@ -12,6 +12,9 @@
                             SINO MOSTRAR (num2 "es mayor que " num1))
         8. FIN
 
+      ![image](https://user-images.githubusercontent.com/75552884/158853944-768eb775-c390-42ee-91bd-b9aa014e7ba8.png)
+
+
 2. Realiza un algoritmo y diagrama de flujo de un programa que resuelva el sigueinte problema: Solicitando se ingresen 4 calificaciones, una por periodo, se obtenga el promedio y se imprima una felicitación a quien obtenga un promedio mayor a 6, y se le informe ha reprobado a quien obtenga una calificacion menor a 6.
 
         1. INICIO
@@ -36,6 +39,6 @@
         3. MOSTRAR ("Ingresa un número")
         4. ASIGNAR (numero)
         5. PROCESO (SI numero MOD 2 == 0 ENTONCES MOSTRAR (numero "es un número par")
-        6.                      SINO MOSTRAR (numero "es un número impar"))
+                                SINO MOSTRAR (numero "es un número impar"))
         7. FIN 
 
