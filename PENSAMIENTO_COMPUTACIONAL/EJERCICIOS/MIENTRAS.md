@@ -4,7 +4,7 @@ Realizar el algoritmo y diagrama de flujo de un programa para obtener la suma de
     2. DECLARAR (contador, numero, resultado)
     3. ASIGNAR (contador = 0)
     4. ASIGNAR (numero = 1)
-    5. MIENTRAS (inicio < 10) HACER resultado = resultado + contador MOSTRAR resultado
+    5. MIENTRAS (contador < 10) HACER resultado = resultado + contador MOSTRAR resultado
     
     
   ![image](https://user-images.githubusercontent.com/75552884/159749099-3cf585ba-10df-4acf-8dbb-f9800267fa60.png)
@@ -18,5 +18,5 @@ Realiza un algoritmo y diagrama de flujo de un programa que solicita números al
     3. MOSTRAR ("Ingresa un primer numero")
     4. ASIGNAR (numero1)
     5. MOSTRAR ("Ingresa un segundo numero")
-    6. MIENTRAS (numero1 < 0 OR numero2 <0 
+    6. MIENTRAS (numero1 < 0 OR numero2 < 0 
     
