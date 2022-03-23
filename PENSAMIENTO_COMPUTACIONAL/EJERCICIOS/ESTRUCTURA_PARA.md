@@ -10,6 +10,7 @@ Realizar un algoritmo y diagrama de flujo para un programa que permita ingresar 
     6. ASIGNAR (n_impresion)
     7. ASIGNAR (contador == 0)
     8. FOR (contador <= n_impresion) MOSTRAR (nombre) 
+           comtador = contador + 1
     9. FIN
 
    ![image](https://user-images.githubusercontent.com/75552884/159529226-a24e6995-b638-422b-babb-d62f6bb2809d.png)
@@ -18,12 +19,14 @@ Realizar un algoritmo y diagrama de flujo para un programa que permita ingresar 
 Realizar algoritmo y diagrama de flujo de un programa que imprima las tablas de multiplicar del 1 al 10.
     
     1. INICIO
-    2. DECLARAR (numero, contador, tabla)
+    2. DECLARAR (numero, contador)
     3. ASIGNAR (contador == 1)
     4. ASIGNAR (numero == 1)    
-    5. FOR (contador <= 10) MOSTRAR (numero * contador = tabla)
-        numero + 1
+    5. FOR (contador <= 10 AND numero <=10) MOSTRAR (contador * numero = tabla)
         contador + 1
+        numero + 1
+        END FOR
+    6. FIN
         
     
 
