@@ -4,14 +4,13 @@
     2. DECLARAR (contador, numero, resultado)
     3. ASIGNAR (contador = 0)
     4. ASIGNAR (numero = 1)
-    5. MIENTRAS (contador < 10) HACER ASIGNAR (resultado = contador + numero) 
+    5. MIENTRAS (contador = 10) HACER ASIGNAR (resultado = contador + numero) 
                                 MOSTRAR (resultado)
-                                ASIGNAR (contador + 1) FIN_MIENTRAS
+                                ASIGNAR (contador = numero)
+                                ASIGNAR (numero = numero + 1) FIN_MIENTRAS
+    6. FIN                            
     
-    
-  ![image](https://user-images.githubusercontent.com/75552884/159749099-3cf585ba-10df-4acf-8dbb-f9800267fa60.png)
-
-
+  ![image](https://user-images.githubusercontent.com/75552884/159838261-23f85e9f-c2bc-42a8-aba8-865c0685e28b.png)
 
 
 # SERIE DE FIBONACCI
